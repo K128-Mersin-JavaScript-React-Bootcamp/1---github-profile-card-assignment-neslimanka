@@ -1,3 +1,5 @@
+<img width="626" alt="Ekran Alıntısı" src="https://user-images.githubusercontent.com/43746150/134747126-2d94a514-2b72-48c6-8591-1be05299ec5d.PNG">
+
 
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5741172&assignment_repo_type=AssignmentRepo)
@@ -9,6 +11,7 @@ Uygulamada kullanılacak verileri Github REST API ile alabilirsin.
 
 Projede kullanılacak teknolojiler;
 - HTML, CSS, JavaScript
+
 
 Basit bir uygulama wireframe’ini seninle paylaşıyorum:
 
