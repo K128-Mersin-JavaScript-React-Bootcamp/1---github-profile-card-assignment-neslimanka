@@ -1,0 +1,27 @@
+
+  #profile-photo {
+    margin-left: 20px;
+    margin-right: 5px;
+    width: 80px;
+  }
+  
+  .names {
+    display: inline-block;
+    position: absolute;
+    margin-left: 20px;
+    font-weight: bold;
+  }
+  #username {
+    color: rgba(36, 126, 209, 0.753);
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  #repo-info {
+    margin-right: 30px;
+    float: right;
+    text-align: right;
+  }
+  
+
+  
